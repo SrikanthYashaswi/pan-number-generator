@@ -2,7 +2,7 @@
 
 Usage
 
-```
+```js
 const { generatePan, generateRandomPan, generateSerialPan } = require('./pan-generator');
 
 generatePan(0)  // => AAAAA0000A
